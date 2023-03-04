@@ -71,6 +71,7 @@
   font-weight: 800;
   font-size: 34px;
   line-height: 45px;
+  margin: 1rem 0;
 }
 .gpt__whatgpt-heading p {
   font-family: var(--font-family);
@@ -94,7 +95,6 @@
   margin: 1rem;
   min-width: 210px;
   display: unset;
-  /* flex-direction: column; */
 }
 
 /* Customizing feature component as per needs */
